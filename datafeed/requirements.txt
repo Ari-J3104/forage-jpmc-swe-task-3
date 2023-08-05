@@ -1,1 +1,1 @@
-npm ipython-dateutil==2.8.2
+npm python-dateutil==2.8.2
